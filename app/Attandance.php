@@ -12,6 +12,10 @@ class Attandance extends Model
         'user_id',
         'course_id',
         'instructor_id',
+<<<<<<< HEAD
+        'location_id',
+=======
+>>>>>>> 940b9d16321bebf5adc1d38a5dc08635c58266c7
         'order_id',
         'date',
         'end_date',
